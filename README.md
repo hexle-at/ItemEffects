@@ -1,6 +1,6 @@
 # ItemEffects
 
-**Project status:** ``✅ Active`` ([More information...](https://github.com/hexle-at/project-info/docs/status.md))
+**Project status:** ``✅ Active`` ([More information...](https://github.com/hexle-at/project-info/blob/main/docs/status.md))
 
 This plugin allows you to use one or multiple (potion-) effects on any item in minecraft. 
 
