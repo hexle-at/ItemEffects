@@ -7,6 +7,14 @@ This plugin allows you to use one or multiple (potion-) effects on any item in m
 <br>
 
 
+### 📃Dependencies:
+
+We have included the ``NBTAPI`` from "tr7zw" [NBTAPI](https://github.com/tr7zw/Item-NBT-API). <br>
+You do not have to install this dependency as a plugin! 
+
+<br>
+
+
 
 ### 📘Wiki:
 
